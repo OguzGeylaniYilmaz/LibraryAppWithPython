@@ -1,3 +1,5 @@
 # LibraryAppWithPython
-Uygulamada kullanılan araçlar Python(PyQt5) ve veritabanı olarak SQLitedır.
-Veritabanı dosyası üzerinde değişiklik yapılabilir.
+Desktop application created using Python(PyQt5) and SQLite
+##
+The tools used in the application are Python (PyQt5) and SQLite as the database.
+
