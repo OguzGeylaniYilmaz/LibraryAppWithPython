@@ -1,5 +1,5 @@
 # LibraryAppWithPython
-- Desktop application created using Python(PyQt5) and SQLite
+- Desktop library application with database connection
 - User can perform addition, deletion, filtering, updating and listing operations.
 ## Platforms Used
 - Python (PyQt5)
